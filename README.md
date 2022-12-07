@@ -82,7 +82,7 @@
 
 <br/>  
 
-  
+  ![snake gif](https://github.com/Arthur-LimaD/Arthur-LimaD/blob/output/github-contribution-grid-snake.gif)
 
 <br/>  
 
