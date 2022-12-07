@@ -8,7 +8,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [HomeWorkMaker](https://github.com/Arthur-LimaD/HomewokMaker)
+- 🔭 I’m currently working on [HomeWorkMaker](https://github.com/arthurlimadm/HomewokMaker)
   
 
 - 🌱 I’m currently learning NextJS and TypeScript features  
@@ -62,7 +62,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Arthur-LimaD" target="_blank">
+<a href="https://github.com/arthurlimadm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/arthurlimaaed" target="_blank">
@@ -78,23 +78,23 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arthur-LimaD&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arthurlimadm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-  ![snake gif](https://github.com/Arthur-LimaD/Arthur-LimaD/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/arthurlimadm/Arthur-LimaD/blob/output/github-contribution-grid-snake.gif)
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Arthur-LimaD&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=arthurlimadm&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Arthur-LimaD" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/arthurlimadm" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
