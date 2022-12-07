@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arthur-LimaD
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on Independent Projects
-- 📫 Reach me on my email: arthurlimaaed@gmail.com
+Software Web Developer, specialized on NodeJS and ReactJS.
 
+Know my work at my portfolio: 
+arthurlima.com.br
+
+Im currently learning TypeScript and NextJS!
