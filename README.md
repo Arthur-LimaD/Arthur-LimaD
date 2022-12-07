@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Software Web Developer, specialized on NodeJS and ReactJS 👩‍💻 Im Want to contribute on Projects!🚀</div>  
+### <div align="center">Software Web Developer, specialized on NodeJS and ReactJS 👩‍💻</div>  
   
 
 <br/>  
